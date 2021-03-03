@@ -1,0 +1,18 @@
+[
+    {
+        "name":"ipod",
+        "price":30000,
+        "description":"this is a 6th generation ipod",
+        "rating":3.5,
+        "images":[{
+            "public_id":"ieirjew",
+            "url":"jflsfjsdlkfjaf"
+        }],
+        "category":"Home",
+        "seller":"ebay",
+        "stock":50,
+        "numofreviews":43,
+        "reviews":[]
+
+    }
+]
